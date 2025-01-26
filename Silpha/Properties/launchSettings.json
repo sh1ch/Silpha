@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Silpha (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Silpha (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
